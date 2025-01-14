@@ -1,0 +1,8 @@
+streamlit==1.22.0
+langchain
+langchain-openai
+langchain-community
+openai
+python-magic
+unstructured
+faiss-cpu
